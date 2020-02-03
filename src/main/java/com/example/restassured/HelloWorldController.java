@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import Model.HelloWorldBean;
+import com.example.restassured.Model.HelloWorldBean;
 
 @RestController
 public class HelloWorldController {
